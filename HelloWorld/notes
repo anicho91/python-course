@@ -1,0 +1,6 @@
+Py3 has 3 numeric data types:
+int (replaces long) whole number, significantly faster, no size limit
+float real number (fractional part)
+complex (real and imaginary part, based on square root -1)
+
+Also has a decimal type
